@@ -1,0 +1,29 @@
+
+
+=== DEBUG CALLBACK START [2025-08-05 05:53:20] ===
+REQUEST METHOD: GET
+POST DATA: []
+GET DATA: []
+RAW INPUT: 
+EXTRACTED DATA:
+- Reference: NOT FOUND
+- Status: NOT FOUND
+- Transaction ID: NOT FOUND
+ERROR: No reference found in callback data
+
+
+=== DEBUG CALLBACK START [2025-08-05 05:54:51] ===
+REQUEST METHOD: GET
+POST DATA: []
+GET DATA: []
+RAW INPUT: 
+EXTRACTED DATA:
+- Reference: NOT FOUND
+- Status: NOT FOUND
+- Transaction ID: NOT FOUND
+ERROR: No reference found in callback data
+ERROR: No reference found in callback data
+ERROR: No reference found in callback data
+ERROR: No reference found in callback data
+ERROR: No reference found in callback data
+ERROR: No reference found in callback data
